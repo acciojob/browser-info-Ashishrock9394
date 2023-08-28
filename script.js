@@ -1,2 +1,2 @@
 document.getElementById("browser-info").innerHTML = 
-"You are using " + navigator.userAgent + navigator.appName + "version " + navigator.appVersion;
+"You are using " + navigator.appName + " version " + navigator.appVersion + navigator.userAgent
